@@ -1,0 +1,41 @@
+eff.org	2xx	redirect_nonhome
+www.lawfareblog.com	2xx	redirect_nonhome
+nationalinterest.org	2xx	4xx
+nymag.com	2xx	redirect_nonhome
+www.apple.com	2xx	redirect_nonhome
+asia.nikkei.com	2xx	redirect_nonhome
+web.stanford.edu	2xx	redirect_nonhome
+twitter.com	2xx	redirect_nonhome
+subscriber.politicopro.com	4xx	redirect_nonhome
+www.linkedin.com	2xx	4xx
+www.amazon.com	2xx	redirect_nonhome
+usa.kaspersky.com	2xx	4xx
+lauren.vortex.com	2xx	redirect_nonhome
+www.britannica.com	2xx	redirect_nonhome
+bit.ly	4xx	redirect_nonhome
+www.japantimes.co.jp	2xx	redirect_nonhome
+www.facebook.com	2xx	redirect_nonhome
+www.wired.co.uk	2xx	redirect_nonhome
+www.google.com	2xx	redirect_nonhome
+medium.com	2xx	4xx	redirect_nonhome
+www.nytimes.com	2xx	redirect_nonhome
+www.armscontrol.org	2xx	redirect_nonhome
+www.eff.org	2xx	redirect_nonhome
+aip-info.org	2xx	4xx	redirect_home	redirect_nonhome
+google.com	2xx	4xx
+www.vortex.com	2xx	redirect_nonhome
+www.pcmag.com	2xx	redirect_nonhome
+www.stevens.edu	2xx	redirect_nonhome
+rmf.vc	2xx	4xx	redirect_nonhome
+www.europarl.europa.eu	2xx	redirect_nonhome
+www.tomglocer.com	2xx	4xx
+www.theatlantic.com	2xx	redirect_nonhome
+blogs.scientificamerican.com	2xx	redirect_nonhome
+www.thesun.co.uk	2xx	redirect_nonhome
+www.vox.com	2xx	redirect_nonhome
+www.scmp.com	2xx	redirect_nonhome
+www.technologyreview.com	2xx	redirect_nonhome
+supporters.eff.org	2xx	redirect_nonhome
+www.researchgate.net	2xx	redirect_nonhome
+www.cbsnews.com	2xx	redirect_nonhome
+www.theregister.co.uk	2xx	redirect_nonhome

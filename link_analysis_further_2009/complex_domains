@@ -1,0 +1,121 @@
+www.courant.com	4xx	redirect_nonhome
+www.basexblog.com	2xx	4xx
+haftofthespear.com	2xx	4xx
+www.acm.org	2xx	redirect_home
+42.pl	4xx	redirect_nonhome
+www.whitehouse.gov	2xx	4xx	redirect_nonhome
+feedproxy.google.com	2xx	4xx	redirect_nonhome
+www.computerworld.com	4xx	redirect_nonhome
+tinyurl.com	4xx	dns_error	redirect_home	redirect_nonhome
+www.copyright.gov	2xx	4xx
+code.google.com	2xx	4xx	redirect_nonhome
+www.us-cert.gov	4xx	redirect_nonhome
+www.usdoj.gov	4xx	redirect_nonhome
+www.cmu.edu	2xx	redirect_nonhome
+forums.verizon.com	2xx	redirect_nonhome
+www.nytimes.com	2xx	4xx	redirect_nonhome
+gizmodo.com	2xx	redirect_nonhome
+news.cnet.com	4xx	redirect_nonhome
+broadbandcensus.com	2xx	redirect_nonhome
+www.guardian.co.uk	2xx	redirect_nonhome
+www.smh.com.au	4xx	redirect_nonhome
+www.trust2010.org	2xx	4xx
+www.ritholtz.com	2xx	redirect_nonhome
+www.philly.com	4xx	redirect_nonhome
+www.popsci.com	2xx	redirect_nonhome
+www.cnn.com	2xx	4xx
+wsj.com	2xx	4xx
+www.globalchange.gov	redirect_home	redirect_nonhome
+www.cavebear.com	2xx	4xx
+www.cs.cmu.edu	2xx	redirect_home
+www.reuters.com	4xx	redirect_nonhome
+www.sfgate.com	4xx	redirect_nonhome
+www.wired.com	2xx	4xx	redirect_nonhome
+sfgate.com	4xx	redirect_nonhome
+ipcommunications.tmcnet.com	4xx	redirect_nonhome
+finance.yahoo.com	4xx	redirect_nonhome
+twitter.com	2xx	redirect_nonhome
+googlepublicpolicy.blogspot.com	2xx	4xx	redirect_nonhome
+www.keionline.org	2xx	4xx
+ui.constantcontact.com	2xx	redirect_nonhome
+www.businessinsider.com	2xx	4xx
+www.informationweek.com	4xx	redirect_nonhome
+www.npr.org	2xx	redirect_nonhome
+www.pbs.org	2xx	4xx
+google.com	4xx	redirect_home
+isoc.org	4xx	redirect_nonhome
+thomas.loc.gov	redirect_home	redirect_nonhome
+www.nybooks.com	4xx	redirect_home	redirect_nonhome
+www.cdt.org	2xx	4xx	redirect_home	redirect_nonhome
+www.cybertelecom.org	2xx	4xx
+cyber.law.harvard.edu	2xx	4xx
+adwords.google.com	4xx	redirect_nonhome
+www.citizen.org	2xx	4xx	redirect_nonhome
+secure.eff.org	4xx	redirect_nonhome
+www.isoc.org	2xx	redirect_nonhome
+news.bbc.co.uk	2xx	redirect_nonhome
+www.nist.gov	4xx	redirect_nonhome
+click1.newsletters.siliconvalley.com	2xx	4xx	redirect_home	redirect_nonhome
+www.markle.org	2xx	4xx
+online.wsj.com	2xx	4xx	redirect_nonhome
+www.joelonsoftware.com	redirect_home	redirect_nonhome
+www.eweek.com	4xx	redirect_nonhome
+www.newswise.com	2xx	redirect_nonhome
+www.latimes.com	2xx	redirect_nonhome
+www.measurementlab.net	2xx	4xx
+www.sans.org	2xx	redirect_home
+www.dailykos.com	2xx	4xx
+www.udel.edu	2xx	redirect_nonhome
+support.microsoft.com	4xx	redirect_nonhome
+www.theinternetpatrol.com	2xx	redirect_nonhome
+canonical.org	2xx	redirect_nonhome
+tools.ietf.org	2xx	4xx	redirect_nonhome
+abcnews.go.com	2xx	redirect_nonhome
+www.linkedin.com	4xx	redirect_nonhome
+lauren.vortex.com	2xx	4xx
+www.fas.org	2xx	redirect_nonhome
+www.forbes.com	2xx	4xx
+www.facebook.com	2xx	4xx	redirect_nonhome
+www.fbo.gov	2xx	redirect_nonhome
+law.fordham.edu	4xx	redirect_home	redirect_nonhome
+intransit.blogs.nytimes.com	2xx	4xx
+cmp.hku.hk	2xx	4xx
+flickr.com	2xx	redirect_nonhome
+www.ietf.org	2xx	4xx	redirect_nonhome
+www.pcworld.com	2xx	redirect_nonhome
+www.nap.edu	redirect_home	redirect_nonhome
+hesketh.com	2xx	redirect_home
+www.dhs.gov	2xx	redirect_nonhome
+www.youtube.com	2xx	redirect_home
+csis.org	redirect_home	redirect_nonhome
+www.nsf.gov	2xx	redirect_nonhome
+www.icann.org	2xx	4xx	redirect_nonhome
+www.supremecourtus.gov	2xx	4xx
+www.theregister.co.uk	2xx	redirect_nonhome
+frankston.com	2xx	redirect_nonhome
+www.telegraph.co.uk	2xx	redirect_nonhome
+www.networkworld.com	4xx	redirect_nonhome
+www.apple.com	4xx	redirect_nonhome
+latimesblogs.latimes.com	2xx	4xx
+energycommerce.house.gov	4xx	redirect_home
+www.christopher-parsons.com	2xx	redirect_nonhome
+www.techcrunch.com	2xx	redirect_nonhome
+www.amazon.com	2xx	redirect_nonhome
+www.itif.org	2xx	redirect_home
+bit.ly	2xx	4xx	redirect_home	redirect_nonhome
+www.att.com	2xx	redirect_home	redirect_nonhome
+blog.wired.com	4xx	redirect_nonhome
+www.google.com	2xx	4xx	redirect_home	redirect_nonhome
+www.gao.gov	2xx	redirect_nonhome
+www.talkingpointsmemo.com	4xx	redirect_nonhome
+www.tsa.gov	2xx	4xx
+cis471.blogspot.com	2xx	4xx
+www.cisco.com	4xx	redirect_nonhome
+www.eff.org	2xx	4xx	redirect_nonhome
+www.ft.com	4xx	redirect_nonhome
+www.benton.org	2xx	4xx
+www.alternet.org	4xx	redirect_nonhome
+www.huffingtonpost.com	redirect_home	redirect_nonhome
+www.schneier.com	2xx	redirect_nonhome
+books.google.com	2xx	4xx
+www.newnetworks.com	2xx	4xx

@@ -1,0 +1,44 @@
+www.rsa.com	2xx	redirect_nonhome
+support.microsoft.com	2xx	redirect_nonhome
+www.wired.com	2xx	4xx	redirect_nonhome
+www.computerhistory.org	2xx	4xx
+www.acm.org	4xx	redirect_home
+www.securityfocus.com	4xx	redirect_nonhome
+www.nwfusion.com	4xx	redirect_nonhome
+www.apng.org	2xx	4xx
+www.amazon.com	4xx	redirect_nonhome
+crypto.stanford.edu	2xx	4xx
+www.systemsoft.com	4xx	redirect_nonhome
+www.webcinema.org	2xx	4xx
+www.usdoj.gov	4xx	redirect_nonhome
+www.cpsr.org	2xx	4xx
+cnn.com	2xx	4xx
+www.redherring.com	2xx	4xx
+www.mids.org	2xx	redirect_home
+www.fcc.gov	2xx	redirect_nonhome
+www.nytimes.com	2xx	4xx	redirect_nonhome
+www.zdnet.com	4xx	redirect_nonhome
+www.eff.org	2xx	4xx	redirect_home	redirect_nonhome
+www.pbs.org	2xx	redirect_nonhome
+www.aclu.org	2xx	4xx
+www.cra.org	2xx	4xx
+www.cdt.org	2xx	4xx	redirect_home	redirect_nonhome
+www.csa.fr	2xx	4xx
+www.nationalpost.com	2xx	4xx
+www.nap.edu	2xx	redirect_nonhome
+www.well.com	2xx	redirect_nonhome
+memex.org	2xx	4xx
+www.ntia.doc.gov	4xx	redirect_nonhome
+www.ntk.net	2xx	4xx
+www.gn.apc.org	4xx	redirect_home
+www.slate.com	2xx	4xx
+telecom-digest.org	2xx	4xx
+www.courtbar.org	2xx	4xx
+www.independent.co.uk	4xx	redirect_nonhome
+packetstorm.genocide2600.com	2xx	4xx
+www.nsf.gov	2xx	4xx
+www.mediaaccess.org	2xx	4xx
+www.wisecounty.org	2xx	4xx
+pd.co.la.ca.us	2xx	redirect_home
+www.icann.org	2xx	4xx	redirect_nonhome
+www.oreilly.com	2xx	redirect_home	redirect_nonhome

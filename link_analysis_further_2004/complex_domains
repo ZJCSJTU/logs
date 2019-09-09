@@ -1,0 +1,129 @@
+news.com.com	2xx	redirect_home
+www.bugmenot.com	2xx	4xx
+www.computerworld.com	2xx	4xx
+www.princeton.edu	2xx	4xx	redirect_nonhome
+www.nwfusion.com	4xx	redirect_nonhome
+www.newsday.com	4xx	redirect_nonhome
+tinyurl.com	4xx	redirect_home	redirect_nonhome
+www.release1-0.com	2xx	redirect_home
+www.discourse.net	2xx	redirect_nonhome
+www.usdoj.gov	2xx	4xx	redirect_nonhome
+www.fair.org	2xx	4xx
+www.nytimes.com	2xx	4xx	redirect_nonhome
+www.aip.org	2xx	4xx
+www.staysafeonline.info	2xx	4xx
+www.vortex.com	2xx	redirect_home
+www.thememoryhole.org	2xx	4xx
+www.archive.org	2xx	redirect_nonhome
+www.ncsfreedom.org	2xx	4xx
+www.computer.org	4xx	redirect_nonhome
+www.aclu.org	2xx	4xx	redirect_nonhome
+www.newyorker.com	4xx	redirect_nonhome
+www.guardian.co.uk	2xx	4xx	redirect_nonhome
+www.motherjones.com	2xx	redirect_nonhome
+www.cnn.com	2xx	4xx
+www.washingtontimes.com	2xx	redirect_nonhome
+www.xten.com	2xx	redirect_nonhome
+www.GigaLaw.com	2xx	4xx
+www.markletaskforce.org	4xx	redirect_nonhome
+www.theinquirer.net	2xx	4xx
+www.tomdispatch.com	2xx	redirect_nonhome
+grep.law.harvard.edu	2xx	redirect_nonhome
+www.news.com.au	4xx	redirect_nonhome
+www.reuters.com	2xx	4xx	redirect_home	redirect_nonhome
+www.sfgate.com	4xx	redirect_nonhome
+www.wired.com	4xx	redirect_nonhome
+news.ft.com	4xx	redirect_nonhome
+www.livejournal.com	redirect_home	redirect_nonhome
+science.slashdot.org	2xx	4xx	redirect_nonhome
+isc.incidents.org	4xx	redirect_nonhome
+www.fcc.gov	2xx	redirect_nonhome
+www.npr.org	2xx	4xx
+www.pbs.org	4xx	redirect_nonhome
+www.verifiedvoting.org	2xx	4xx
+www.cei.org	2xx	4xx
+nielsenhayden.com	2xx	redirect_nonhome
+www.cdt.org	2xx	redirect_home	redirect_nonhome
+www.citizen.org	2xx	4xx	redirect_nonhome
+books.guardian.co.uk	4xx	redirect_nonhome
+www.industrialnewsroom.com	2xx	redirect_home
+www.c-span.org	2xx	4xx
+www.edu-cyberpg.com	2xx	4xx
+news.bbc.co.uk	2xx	redirect_nonhome
+www.splc.org	2xx	4xx
+online.wsj.com	4xx	redirect_nonhome
+www.defensetech.org	4xx	redirect_nonhome
+www.benedelman.org	2xx	redirect_nonhome
+www.startribune.com	2xx	redirect_home
+www.latimes.com	2xx	4xx	redirect_nonhome
+sethf.com	2xx	4xx
+www.muniwireless.com	2xx	4xx	redirect_nonhome
+www.itu.int	2xx	4xx	redirect_nonhome
+www.isi.edu	4xx	redirect_home
+yro.slashdot.org	4xx	redirect_nonhome
+hraunfoss.fcc.gov	4xx	redirect_nonhome
+www.democracynow.org	2xx	4xx
+www.computerhistory.org	4xx	redirect_nonhome
+papers.ssrn.com	2xx	redirect_nonhome
+www.georgewbush.com	2xx	4xx
+abcnews.go.com	4xx	redirect_nonhome
+fairnessbybeckerman.blogspot.com	2xx	4xx
+tim.oreilly.com	4xx	redirect_nonhome
+www.forbes.com	2xx	redirect_nonhome
+www.bustpatents.com	2xx	4xx
+www.microsoft.com	4xx	redirect_nonhome
+www.voanews.com	2xx	redirect_home
+seattletimes.nwsource.com	4xx	redirect_nonhome
+www.legitgov.org	2xx	redirect_home
+www.nature.com	2xx	4xx	redirect_nonhome
+www.electoral-vote.com	2xx	4xx
+chronicle.com	2xx	4xx	redirect_nonhome
+www.mercurynews.com	4xx	redirect_nonhome
+www.stephensonstrategies.com	2xx	4xx
+hesketh.com	2xx	redirect_home	redirect_nonhome
+www.dhs.gov	2xx	redirect_home
+www.lawlists.net	4xx	redirect_nonhome
+www.cukier.com	2xx	4xx
+www.mozilla.org	4xx	redirect_nonhome
+www.uspto.gov	2xx	4xx
+www.nsf.gov	2xx	redirect_nonhome
+www.technologyreview.com	4xx	redirect_nonhome
+www.ComputerBytesMan.com	2xx	4xx
+www.icann.org	4xx	redirect_nonhome
+www.theregister.co.uk	2xx	redirect_nonhome
+www.pewinternet.org	2xx	4xx
+www.apple.com	2xx	4xx
+www.michaelgeist.ca	2xx	4xx
+www.factsquad.org	2xx	redirect_nonhome
+wired.com	4xx	redirect_nonhome
+scottmace.typepad.com	2xx	4xx
+www7.nationalacademies.org	2xx	4xx
+publicus.net	2xx	redirect_nonhome
+www.amazon.com	4xx	redirect_home	redirect_nonhome
+lizditz.typepad.com	2xx	4xx
+dowire.org	4xx	redirect_nonhome
+www.usatoday.com	2xx	4xx
+www.google.com	2xx	4xx	redirect_nonhome
+www.gao.gov	2xx	redirect_nonhome
+www.talkingpointsmemo.com	2xx	4xx
+www.cisco.com	2xx	4xx
+www.eff.org	2xx	4xx	redirect_home	redirect_nonhome
+www.public-domain.org	2xx	4xx
+money.cnn.com	2xx	4xx
+www.ft.com	2xx	redirect_nonhome
+seattlepi.nwsource.com	4xx	redirect_nonhome
+www.kgb.com	2xx	redirect_home
+www.cra.org	2xx	4xx
+www.pcmag.com	4xx	redirect_nonhome
+www.siliconvalley.com	2xx	4xx
+cei.org	2xx	4xx
+www.alternet.org	4xx	redirect_nonhome
+www.schneier.com	2xx	redirect_nonhome
+slashdot.org	2xx	redirect_nonhome
+www.verizon.com	2xx	redirect_nonhome
+www.technewsworld.com	2xx	4xx
+www.orkut.com	4xx	redirect_nonhome
+cyberlaw.stanford.edu	2xx	4xx
+www.newnetworks.com	2xx	4xx
+www.cbsnews.com	2xx	redirect_nonhome
+www.iht.com	2xx	redirect_home
